@@ -38,7 +38,7 @@ A full-stack MERN developer🌌 <br>
 * 🏸 Badminton
 
 ## Activities
-* </> Coding
+* {} Coding
 *  🚶‍♂️ Walking
 
 ## Hobby

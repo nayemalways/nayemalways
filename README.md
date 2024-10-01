@@ -11,15 +11,18 @@ A full-stack MERN developer🌌 <br>
  ## 👨🏽‍💻 Skills:
  ![HTML](./img/html.svg)
  ![CSS](./img/css.svg)
- ![CSS](./img/bootstrap.svg)
+ ![Bootstrap](./img/bootstrap.svg)
  ![Javascript](./img/js.svg)
  ![Git and Github](./img/git-icon.svg) <br>
+
  ## 🛠️ Tools:
   ![Vs Code](./img/vs-code.svg)
   ![Postman](./img/postman.svg) <br>
+
 **Others skills:** <br>
 ![MS Office](./img/office.svg)
 ![MS Excel](./img/excel.svg)
+
 ## 👨🏻‍🎓 Education
 * Bsc (Bachelor of Science) - on going
 * HSC (Higher Secondary School Certificate)
@@ -28,7 +31,6 @@ A full-stack MERN developer🌌 <br>
 ## Language
 * Bangla (Native)  
 * English (Intermediate)
-* Hindi (Basic)
 
 ## Sports
 * 🏏 Cricket
@@ -36,6 +38,7 @@ A full-stack MERN developer🌌 <br>
 * 🏸 Badminton
 
 ## Activities
+* </> Coding
 *  🚶‍♂️ Walking
 
 ## Hobby

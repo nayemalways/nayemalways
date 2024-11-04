@@ -7,7 +7,7 @@ A full-stack MERN developer🌌 <br>
 🚀 Passionate about building scalable web applications
 💻 Experience with HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js
 🎓 Constantly learning and exploring new technologies to stay updated
-📚 Graduatution on BSC in Chemistry from Bhola Govt. College
+📚 Graduation on BSC from Bhola Govt. College
  ## 👨🏽‍💻 Skills:
  ![HTML](./img/html.svg)
  ![CSS](./img/css.svg)

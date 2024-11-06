@@ -14,7 +14,7 @@ A full-stack MERN developer🌌 <br>
  ![Bootstrap](./img/bootstrap.svg)
  ![Javascript](./img/js.svg)
  ![Node js](./img/node.svg)
- ![Express js](./img/Express.svg) <br>
+ ![Express js](./img/express.svg) <br>
 
  ## 🛠️ Tools:
   ![Vs Code](./img/vs-code.svg)

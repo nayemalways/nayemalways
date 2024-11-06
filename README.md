@@ -5,7 +5,7 @@ A full-stack MERN developer🌌 <br>
  ## 👨‍🏫 About me
  🌟 Full-stack JavaScript Developer specializing in MERN stack
 🚀 Passionate about building scalable web applications
-💻 Experience with HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js
+💻 Experience with HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js and MongoDB
 🎓 Constantly learning and exploring new technologies to stay updated
 📚 Graduation on BSC from Bhola Govt. College
  ## 👨🏽‍💻 Skills:
@@ -13,11 +13,13 @@ A full-stack MERN developer🌌 <br>
  ![CSS](./img/css.svg)
  ![Bootstrap](./img/bootstrap.svg)
  ![Javascript](./img/js.svg)
- ![Git and Github](./img/git-icon.svg) <br>
+ ![Node js](./img/node.svg)
+ ![Express js](./img/Express.svg) <br>
 
  ## 🛠️ Tools:
   ![Vs Code](./img/vs-code.svg)
-  ![Postman](./img/postman.svg) <br>
+  ![Postman](./img/postman.svg) 
+  ![Git and Github](./img/git-icon.svg) <br>
 
 **Others skills:** <br>
 ![MS Office](./img/office.svg)

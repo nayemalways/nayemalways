@@ -32,10 +32,12 @@ A full-stack MERN developer🌌 <br>
 * Bangla (Native)  
 * English (Intermediate)
  
-## Connect with me:
- <a href="https://www.facebook.com/nayemalways/" target="_blank"><img src="./img/fb.svg" alt="Facebook"></a>
- <a href="https://www.instagram.com/nayemalways/" target="_blank"><img src="./img/insta6.svg" alt="Instagram"></a>
- <a href="https://www.linkedin.com/in/nayemalways/" target="_blank"><img src="./img/linkedin.svg" alt="Linkedin"></a>
+ ## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayemalways)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nayemalways)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanahmed13913@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/nayemalways)
 
 
 

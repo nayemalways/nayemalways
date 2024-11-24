@@ -7,6 +7,9 @@ A full-stack MERN developer🌌 <br>
 💻 Experience with HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js and MongoDB.
 🎓 Constantly learning and exploring new technologies to stay updated.
 📚 Graduation on BSC from Bhola Govt. College
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
  ## 👨🏽‍💻 Skills:
  ## Languages
 
@@ -25,11 +28,15 @@ A full-stack MERN developer🌌 <br>
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemalways&layout=compact&theme=radical)
 
 
 ## GitHub Stats
 ![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Language
 * Bangla (Native)  

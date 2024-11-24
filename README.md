@@ -10,8 +10,9 @@ A full-stack MERN developer🌌 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- ## 👨🏽‍💻 Skills:
- ## Languages
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+ ### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -22,7 +23,7 @@ A full-stack MERN developer🌌 <br>
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-## Tools & Services
+### Tools & Services
 
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)

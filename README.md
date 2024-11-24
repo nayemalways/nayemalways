@@ -24,28 +24,13 @@ A full-stack MERN developer🌌 <br>
 ![MS Office](./img/office.svg)
 ![MS Excel](./img/excel.svg)
 
-## 👨🏻‍🎓 Education
-* Bsc (Bachelor of Science) - on going
-* HSC (Higher Secondary School Certificate)
-* SSC (Secondary School Certificate)
+## GitHub Stats
+![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ## Language
 * Bangla (Native)  
 * English (Intermediate)
-
-## Sports
-* 🏏 Cricket
-* ⚽ Football
-* 🏸 Badminton
-
-## Activities
-* {} Coding
-*  🚶‍♂️ Walking
-
-## Hobby
-* ✈️ Travelling
-* 🍦 Eating
-
+ 
 ## Connect with me:
  <a href="https://www.facebook.com/nayemalways/" target="_blank"><img src="./img/fb.svg" alt="Facebook"></a>
  <a href="https://www.instagram.com/nayemalways/" target="_blank"><img src="./img/insta6.svg" alt="Instagram"></a>

@@ -1,4 +1,3 @@
-![Mohammad Nayem](./img/edited.png)
 # Hi, I'm Mohammad Nayem
 A full-stack MERN developer🌌 <br>
 🏠 Living in Bhola, Bangladesh <br>

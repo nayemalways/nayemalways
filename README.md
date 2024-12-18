@@ -36,6 +36,7 @@ A full-stack MERN developer🌌 <br>
 
 ## GitHub Stats
 ![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical) <br> <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=nayemalways&theme=dark) <br> <br>
 ![Nayem's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nayemalways&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY) 
 
 

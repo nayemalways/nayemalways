@@ -1,12 +1,12 @@
-# Hi, I'm Nayem Ahmed
-A full-stack MERN developer🌌 <br>
-🏠 Living in Bhola, Bangladesh <br>
- ## 👨‍🏫 About me
- 🌟 Full-stack JavaScript Developer specializing in MERN stack.
-🚀 Passionate about building scalable web applications.
-💻 Experience with HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js and MongoDB.
-🎓 Constantly learning and exploring new technologies to stay updated.
-📚 Graduation on BSC from Bhola Govt. College
+## 👋 Hi there, I'm Nayem
+
+I'm a Junior Full-Stack Developer with a strong interest in building scalable web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**.
+
+### 🚀 What I Do
+- 💻 Build full-stack applications using JavaScript and TypeScript
+- 🔧 Work with MongoDB, Mongoose, Express, and REST APIs
+- 🛠️ Create responsive UIs with React, Tailwind CSS, and Bootstrap
+- 📦 Integrate third-party services like payment gateways and authentication systems
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -24,6 +24,7 @@ A full-stack MERN developer🌌 <br>
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### Tools & Services
@@ -47,7 +48,7 @@ A full-stack MERN developer🌌 <br>
 
 ## Language
 * Bangla (Native)  
-* English (Intermediate)
+* English (Basic)
  
  ## Connect with Me
 

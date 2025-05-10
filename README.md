@@ -39,9 +39,14 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 
 
 ## GitHub Stats
-![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical) <br> <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nayemalways&theme=dark)](https://git.io/streak-stats) <br> <br>
+![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nayemalways&theme=dark)](https://git.io/streak-stats) <br> 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemalways&theme=react-dark&bg_color=0D1117&hide_border=true)
 ![Nayem's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nayemalways&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY) 
+
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

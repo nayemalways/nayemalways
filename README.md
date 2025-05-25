@@ -34,6 +34,11 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![MongoDB Compass Badge](https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Valentina Studio Badge](https://img.shields.io/badge/-Valentina%20Studio-4C6EF5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=&logoColor=white)
+![pgAdmin Badge](https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

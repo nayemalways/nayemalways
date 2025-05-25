@@ -19,7 +19,8 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 [![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB) <br/>
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![GSAP Badge](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) <br/>
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)

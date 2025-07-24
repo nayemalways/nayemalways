@@ -70,7 +70,7 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanahmed13913@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nayem-ahmed.onrender.com/)
 [![Portfolio](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white
-)](https://www.codewars.com/users/nayem)
+)](https://www.codewars.com/users/nayemalways)
 
 
 

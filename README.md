@@ -44,13 +44,14 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## GitHub Stats
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical" alt="Nayem's GitHub Stats" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical" alt="Nayem's GitHub Stats" width="400" height="400"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=nayemalways&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=nayemalways&theme=dark" alt="GitHub Streak" width="400" height="400"/>
   </a>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemalways&layout=compact&theme=radical" alt="Most Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemalways&layout=compact&theme=radical" alt="Most Language" width="300"/>
 </div>
+
 
 <br>
 

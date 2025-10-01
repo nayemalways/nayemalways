@@ -41,19 +41,21 @@ I'm a Junior Full-Stack Developer with a strong interest in building scalable we
 ![Valentina Studio Badge](https://img.shields.io/badge/-Valentina%20Studio-4C6EF5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=&logoColor=white)
 ![pgAdmin Badge](https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemalways&layout=compact&theme=radical)
-
-
 ## GitHub Stats
-![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nayemalways&theme=dark)](https://git.io/streak-stats) <br> 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemalways&theme=react-dark&bg_color=0D1117&hide_border=true)
-![Nayem's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nayemalways&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY) 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayemalways&show_icons=true&theme=radical" alt="Nayem's GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=nayemalways&theme=dark" alt="GitHub Streak" />
+  </a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemalways&layout=compact&theme=radical" alt="Most Language" />
+</div>
 
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemalways&theme=react-dark&bg_color=0D1117&hide_border=true)  
+![Nayem's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nayemalways&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
 
 
 
